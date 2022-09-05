@@ -36,3 +36,71 @@
     transform: rotate(360deg);
   }
 }
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}  
+  
+li{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: #111;
+}
+h2{
+  text-align: center;
+
+}
+
+
+h4{
+  text-align: left;
+}
+input{
+  background-color: blue;
+  color: white;
+  border-color: blue;
+}
+button{
+  background-color: blue;
+}
+.kotak1 {
+  background: rgb(187, 186, 186);
+  width: 1500px;
+  height: 90px;
+  float: left;
+  margin: 20px;
+}
+.kotak2 {
+  background: rgb(187, 186, 186);
+  width: 250px;
+  height: 90px;
+  float: left;
+  margin: 20px;
+}
+.kotak3 {
+  background: rgb(187, 186, 186);
+  width: 250px;
+  height: 90px;
+  float: left;
+  margin: 20px;
+}
+.kotak4 {
+  background: rgb(187, 186, 186);
+  width: 250px;
+  height: 90px;
+  float: left;
+  margin: 20px;
+}
+.tengah {
+  margin: 10px auto;
+  width: 1150px;
+}
+
+
